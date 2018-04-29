@@ -7,6 +7,6 @@
   <body>
 	<h1>Libre Graphics Meeting 2019</h1>
 	<p>This is the future page for the LGM 2019.</p>
-	<p>The [sources for this sites](https://github.com/libregraphicsmeeting/htdocs-2019) are on Github.</p>
+	<p><a href="https://github.com/libregraphicsmeeting/htdocs-2019">The sources for this sites</a> are on Github.</p>
   </body>
 </html>
