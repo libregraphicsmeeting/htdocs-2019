@@ -19,7 +19,7 @@ This repository contains:
 - the plugins created for the lgm 2019 in `wp/wp-content/plugins/`
   - "LGM Sanitize Settings 2019"? (as a copy of the one for 2019)
 - the theme created for the lgm 2019 in `wp/wp-content/themes/`
-  - "lgm2018"
+  - "lgm2019"
 - On Github there is a webhook for automatically deploying the changes to the website.
   - It triggers `git pull` on the tuxfamily server.
   - Take care not to add to the repository any file that is managed through the Wordpress UI.
