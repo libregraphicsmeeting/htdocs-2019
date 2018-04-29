@@ -6,5 +6,6 @@
   </head>
   <body>
 	<h1>Libre Graphics Meeting 2019</h1>
+	<p>This is the future page for the LGM 2019.</p>
   </body>
 </html>
